@@ -1,3 +1,6 @@
+
+https://github.com/user-attachments/assets/db053a4e-81c9-4db8-907d-d79a4231a8d4
+
 # Study Project - Product List with Cart
 
 This is a project developed for study purposes using Angular and Angular Material. The objective of this project is to demonstrate how to create an application that displays a list of products, allowing users to add or remove products from a shopping cart.
@@ -40,6 +43,7 @@ This is a project developed for study purposes using Angular and Angular Materia
 2. **Install dependencies:**
     ```bash
    npm install
+
 
 3. **Start the project:**
     ```bash
