@@ -1,0 +1,22 @@
+<mat-sidenav-container class="sidenav-container" autosize>
+  <mat-sidenav mode="side" opened>
+    <mat-toolbar color="primary">Menu</mat-toolbar>
+    <mat-nav-list>
+      <a mat-list-item routerLink="/products" routerLinkActive="active-link"
+        >Cardapio</a
+      >
+      <a mat-list-item routerLink="/cart" routerLinkActive="active-link"
+        ><div class="cart">Carrinho <span class="badge">{{ cartCount$ | async }}</span></div></a
+      >
+    </mat-nav-list>
+  </mat-sidenav>
+
+  <mat-sidenav-content>
+    <mat-toolbar color="primary">
+      <span>Dashboard</span>
+    </mat-toolbar>
+    <div class="main-content">
+      <router-outlet></router-outlet>
+    </div>
+  </mat-sidenav-content>
+</mat-sidenav-container>

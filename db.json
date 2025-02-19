@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Hamburguer Clássico",
+      "description": "Pão, hambúrguer, queijo, alface, tomate, cebola e molho especial",
+      "price": 15.5,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "2",
+      "name": "X-Burguer",
+      "description": "Pão, hambúrguer, queijo, picles e ketchup",
+      "price": 12,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "3",
+      "name": "X-Salada",
+      "description": "Pão, hambúrguer, queijo, alface, tomate, picles e maionese",
+      "price": 14,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "4",
+      "name": "Batata Frita",
+      "description": "Batatas fritas crocantes",
+      "price": 7,
+      "category": "Acompanhamento"
+    },
+    {
+      "id": "5",
+      "name": "Refrigerante",
+      "description": "Refrigerante lata",
+      "price": 5,
+      "category": "Bebida"
+    },
+    {
+      "id": "6",
+      "name": "Duplo CheeseBurger",
+      "description": "Pão, dois hambúrgueres, queijo cheddar, alface, tomate e molho especial",
+      "price": 18.5,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "7",
+      "name": "Hamburguer Vegano",
+      "description": "Pão integral, hambúrguer à base de grão de bico, alface, tomate, pepino e molho de tahine",
+      "price": 16,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "8",
+      "name": "Hamburguer Bacon",
+      "description": "Pão, hambúrguer, queijo, bacon crocante, cebola caramelizada e molho barbecue",
+      "price": 20,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "9",
+      "name": "Onion Rings",
+      "description": "Anéis de cebola empanados e fritos",
+      "price": 8.5,
+      "category": "Acompanhamento"
+    },
+    {
+      "id": "10",
+      "name": "Milkshake de Chocolate",
+      "description": "Milkshake cremoso de chocolate",
+      "price": 12,
+      "category": "Bebida"
+    },
+    {
+      "id": "11",
+      "name": "Milkshake de Morango",
+      "description": "Milkshake cremoso de morango",
+      "price": 12,
+      "category": "Bebida"
+    },
+    {
+      "id": "12",
+      "name": "Suco Natural de Laranja",
+      "description": "Suco natural espremido na hora",
+      "price": 8,
+      "category": "Bebida"
+    },
+    {
+      "id": "13",
+      "name": "Refrigerante Zero",
+      "description": "Refrigerante zero açúcar",
+      "price": 5.5,
+      "category": "Bebida"
+    },
+    {
+      "id": "14",
+      "name": "Combo Clássico",
+      "description": "Hamburguer Clássico, Batata Frita e Refrigerante",
+      "price": 25,
+      "category": "Combo"
+    },
+    {
+      "id": "15",
+      "name": "Combo Família",
+      "description": "2 Hamburgueres Clássicos, Batata Frita Grande, 2 Refrigerantes e Sobremesa",
+      "price": 50,
+      "category": "Combo"
+    },
+    {
+      "id": "16",
+      "name": "Salada Caesar",
+      "description": "Salada com alface, croutons, queijo parmesão e molho Caesar",
+      "price": 10,
+      "category": "Acompanhamento"
+    },
+    {
+      "id": "17",
+      "name": "Cerveja Artesanal",
+      "description": "Cerveja artesanal local",
+      "price": 15,
+      "category": "Bebida"
+    },
+    {
+      "id": "18",
+      "name": "Mini Hambúrguer",
+      "description": "Mini hambúrguer para crianças com queijo e ketchup",
+      "price": 8,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "19",
+      "name": "Hot Dog Especial",
+      "description": "Pão, salsicha, queijo, batata palha e molho especial",
+      "price": 11,
+      "category": "Lanche"
+    },
+    {
+      "id": "20",
+      "name": "Batata Rústica",
+      "description": "Batatas cortadas em palitos grossos e temperadas",
+      "price": 9,
+      "category": "Acompanhamento"
+    },
+    {
+      "id": "21",
+      "name": "Molho Barbecue",
+      "description": "Molho barbecue artesanal para acompanhar",
+      "price": 3.5,
+      "category": "Molho"
+    },
+    {
+      "id": "22",
+      "name": "Chili Cheese Burger",
+      "description": "Hamburguer com chili, queijo derretido, jalapeños e molho picante",
+      "price": 22,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "23",
+      "name": "Hamburguer de Frango",
+      "description": "Hamburguer feito com peito de frango grelhado, alface e maionese de ervas",
+      "price": 17,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "24",
+      "name": "X-Egg",
+      "description": "Pão, hambúrguer, ovo frito, queijo e bacon",
+      "price": 19,
+      "category": "Hamburguer"
+    },
+    {
+      "id": "25",
+      "name": "Café Expresso",
+      "description": "Café expresso servido em xícara",
+      "price": 4,
+      "category": "Bebida"
+    }
+  ],
+  "cart": []
+}

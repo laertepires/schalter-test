@@ -1,0 +1,37 @@
+.products-container {
+    padding: 16px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+  }
+  
+  .product-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 280px; 
+  }
+  
+  .card-content {
+    flex-grow: 1;
+  }
+  
+  .card-actions {
+    padding: 16px;
+  }
+  
+  .add-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+  }
+  
+  .btn-icon {
+    font-size: 20px;
+  }
+  
